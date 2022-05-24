@@ -248,7 +248,7 @@ streamlit==0.61.0
 sympy==1.5.1
 tensorboard==2.2.2
 tensorboard-plugin-wit==1.6.0.post3
-tensorflow==2.5.3
+tensorflow==2.6.4
 tensorflow-docs @ git+https://github.com/tensorflow/docs@53f04ae6ee6856b1ab53ea1af9dc4560f9e5ad67
 tensorflow-estimator==2.2.0
 tensorflow-hub==0.8.0

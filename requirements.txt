@@ -280,7 +280,7 @@ tzlocal==2.1
 unify==0.5
 untokenize==0.1.1
 urljoin==1.0.0
-urllib3==1.24.3
+urllib3==1.26.5
 uuid==1.30
 validators==0.15.0
 virtualenv==20.0.10
